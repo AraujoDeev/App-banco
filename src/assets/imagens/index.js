@@ -1,0 +1,11 @@
+export { default as alimentacao } from "./alimentacao.svg";
+export { default as bankLogo } from "./bank_logo.svg";
+export { default as dinheiro } from "./dinheiro.svg";
+export { default as olho } from "./olho.svg";
+export { default as outros } from "./outros.svg";
+export { default as privado } from "./privado.svg";
+export { default as saude } from "./saude.svg";
+export { default as themeOff } from "./theme_off.svg";
+export { default as themeOn } from "./theme_on.svg";
+export { default as transporte } from "./transporte.svg";
+export { default as utilidades } from "./utilidades.svg";
